@@ -1,10 +1,10 @@
 
 {
-    "name": "Gifted Session Generator",
+    "name": "RAMAH BOTS Session Generator",
     "description": "Web Session Generator",
-    "logo": "https://files.giftedtech.my.id/file/gifted-md.jpg",
-    "repository": "https://github.com/mouricedevs/gifted-pair-code",
-    "keywords": ["Gifted-Tech"],
+    "logo": "https://pomf2.lain.la/f/h15gbfvs.jpg",
+    "repository": "https://github.com/Badtechramadhan/gifted-pair-code",
+    "keywords": ["RAMAH-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
